@@ -6,11 +6,11 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Hugo Zzo Theme</title>
+    <title>Categories on Reken&#39;s Blog</title>
     <link>http://xcv3549.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Zzo Theme</description>
+    <description>Recent content in Categories on Reken&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ko</language>
     <managingEditor>xcv3540@gmail.com (Reken)</managingEditor>
     <webMaster>xcv3540@gmail.com (Reken)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>

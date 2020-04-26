@@ -6,16 +6,16 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Series on Reken&#39;s Blog</title>
-    <link>http://xcv3549.github.io/series/</link>
-    <description>Recent content in Series on Reken&#39;s Blog</description>
+    <title>Tags on Hugo Zzo Theme</title>
+    <link>http://xcv3549.github.io/en/tags/</link>
+    <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
     <managingEditor>xcv3540@gmail.com (Reken)</managingEditor>
     <webMaster>xcv3540@gmail.com (Reken)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://xcv3549.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://xcv3549.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
