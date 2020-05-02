@@ -24,11 +24,11 @@
       
       <item>
         <title>[BOJ 12100] 2048(Easy)</title>
-        <link>http://xcv3549.github.io/posts/markdown-syntax/</link>
+        <link>http://xcv3549.github.io/posts/12100/</link>
         <pubDate>Sun, 26 Apr 2020 10:37:29 +0000</pubDate>
         <author>xcv3540@gmail.com (Reken)</author>
         <atom:modified>Sun, 26 Apr 2020 10:37:29 +0000</atom:modified>
-        <guid>http://xcv3549.github.io/posts/markdown-syntax/</guid>
+        <guid>http://xcv3549.github.io/posts/12100/</guid>
         <description>&amp;lt;문제 바로가기&amp;gt; 풀이 접근 포인트 1개의 상태에서 4개(상하좌우)의 상태로 확장 가능하다. 모든 상태의 수 : 45 각 상태의 마지막 단계에서 최대 블록</description>
         
         <dc:creator>Reken</dc:creator>
