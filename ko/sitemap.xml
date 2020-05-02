@@ -8,6 +8,31 @@
   </url>
   
   <url>
+    <loc>http://xcv3549.github.io/categories/algorithm/</loc>
+    <lastmod>2020-04-26T10:37:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xcv3549.github.io/tags/boj/</loc>
+    <lastmod>2020-04-26T10:37:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xcv3549.github.io/categories/</loc>
+    <lastmod>2020-04-26T10:37:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://xcv3549.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://xcv3549.github.io/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>http://xcv3549.github.io/posts/</loc>
     <lastmod>2020-04-26T10:37:29+00:00</lastmod>
   </url>
@@ -28,16 +53,17 @@
   </url>
   
   <url>
-    <loc>http://xcv3549.github.io/categories/</loc>
+    <loc>http://xcv3549.github.io/tags/</loc>
+    <lastmod>2020-04-26T10:37:29+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://xcv3549.github.io/en/categories/"
+                href="http://xcv3549.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://xcv3549.github.io/categories/"
+                href="http://xcv3549.github.io/tags/"
                 />
   </url>
   
@@ -52,20 +78,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="http://xcv3549.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://xcv3549.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://xcv3549.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://xcv3549.github.io/tags/"
                 />
   </url>
   
