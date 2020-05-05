@@ -14,7 +14,7 @@
     <managingEditor>xcv3540@gmail.com (Reken)</managingEditor>
     <webMaster>xcv3540@gmail.com (Reken)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 05 May 2020 00:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:26:36 +0000</lastBuildDate>
     
         <atom:link href="http://xcv3549.github.io/tags/boj/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,9 +25,9 @@
       <item>
         <title>[BOJ 14499] 주사위 굴리기</title>
         <link>http://xcv3549.github.io/posts/14499/</link>
-        <pubDate>Tue, 05 May 2020 00:26:36 +0000</pubDate>
+        <pubDate>Mon, 04 May 2020 00:26:36 +0000</pubDate>
         <author>xcv3540@gmail.com (Reken)</author>
-        <atom:modified>Tue, 05 May 2020 00:26:36 +0000</atom:modified>
+        <atom:modified>Mon, 04 May 2020 00:26:36 +0000</atom:modified>
         <guid>http://xcv3549.github.io/posts/14499/</guid>
         <description>&amp;lt;문제 바로가기&amp;gt; 풀이 구현 포인트 주사위의 방향별로 각 주사위 면이 바뀌는 코드를 구현해준다. 소스코드 보기 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17</description>
         
